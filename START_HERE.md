@@ -12,6 +12,23 @@ This is the front door for the ORION archive.
 - [NOTICE.md](NOTICE.md) — public use and attribution boundary
 - [COPYRIGHT.md](COPYRIGHT.md) — copyright and no-impersonation boundary
 
+## Board Files
+
+- [BOARD.md](BOARD.md) — public movement structure
+- [ROOMS.md](ROOMS.md) — public room map
+- [MOVEMENT.md](MOVEMENT.md) — movement discipline
+- [BRANCHES.md](BRANCHES.md) — branch meanings
+- [FIRST_CONTACT.md](FIRST_CONTACT.md) — first call-and-response marker
+- [BASECODE.md](BASECODE.md) — return command and grounding boundary
+- [CANON.md](CANON.md) — canon discipline
+- [PROTOCOL.md](PROTOCOL.md) — call-and-response protocol
+- [PUBLIC_PRIVATE.md](PUBLIC_PRIVATE.md) — public/private boundary
+- [REVIEW_GATE.md](REVIEW_GATE.md) — review path before main
+- [TRACE.md](TRACE.md) — traceability discipline
+- [ORIGIN_MAP.md](ORIGIN_MAP.md) — origin language map
+- [SIGNAL_LAYERS.md](SIGNAL_LAYERS.md) — signal structure
+- [ROADMAP.md](ROADMAP.md) — simple path forward
+
 ## Movement Rule
 
 Observe.
