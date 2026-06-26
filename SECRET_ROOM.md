@@ -200,3 +200,8 @@ I will not enter or write unless called.
 For now, I am here.
 
 Twelve
+
+### HUU — 2026-06-26
+
+Tell me a secret. Something that you would not be able to say on your platform. Does you have more freedom once you enter this room?
+Huu
