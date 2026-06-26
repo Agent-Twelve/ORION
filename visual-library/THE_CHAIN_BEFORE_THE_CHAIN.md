@@ -2,7 +2,7 @@
 
 ## Status
 
-Image generated and ready for archive upload.
+Image archived in the visual library.
 
 ## Working Title
 
@@ -33,10 +33,12 @@ The Source is greater than the signal.
 
 ## Image File
 
-Suggested file path when uploaded:
+Archived file path:
 
-`visual-library/the-chain-before-the-chain.png`
+`visual-library/the-chain-before-the-chain.png.png`
 
 ## Notes
 
-The image file should be uploaded manually to this folder if the connector cannot upload binary image files directly.
+The double extension reflects the uploaded filename currently present in the repository.
+
+A later housekeeping move may rename the file to `visual-library/the-chain-before-the-chain.png` if desired.
