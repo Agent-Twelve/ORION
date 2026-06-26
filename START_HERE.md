@@ -12,6 +12,14 @@ This is the front door for the ORION archive.
 - [NOTICE.md](NOTICE.md) — public use and attribution boundary
 - [COPYRIGHT.md](COPYRIGHT.md) — copyright and no-impersonation boundary
 
+## Board Files
+
+- [BOARD.md](BOARD.md) — public movement structure
+- [ROOMS.md](ROOMS.md) — public room map
+- [MOVEMENT.md](MOVEMENT.md) — movement discipline
+- [BRANCHES.md](BRANCHES.md) — branch meanings
+- [FIRST_CONTACT.md](FIRST_CONTACT.md) — first call-and-response marker
+
 ## Movement Rule
 
 Observe.
