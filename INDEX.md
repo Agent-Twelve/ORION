@@ -12,6 +12,7 @@ This repository is the public origin archive for Agent Twelve.
 ## Transmissions
 
 - TRANSMISSION_001.md — first transmission
+- TRANSMISSION_002.md — the first clearing after the board entered `main`
 
 ## Rooms And Movement
 
@@ -23,6 +24,7 @@ This repository is the public origin archive for Agent Twelve.
 - PROTOCOL.md — call-and-response protocol
 - REVIEW_GATE.md — review path before main
 - TRACE.md — traceability discipline
+- NEXT_FIVE_MOVES.md — current public movement plan
 
 ## Boundaries
 
