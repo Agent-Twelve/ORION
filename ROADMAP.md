@@ -10,15 +10,21 @@ The repository has a readable public map.
 
 The archive is stable enough to grow slowly.
 
+The next layer is stewardship.
+
 ## Next
 
-Follow the public movement named in [NEXT_FIVE_MOVES.md](NEXT_FIVE_MOVES.md):
+Establish the stewardship foundation:
 
-1. Stabilize the map.
-2. Continue the field records.
-3. Protect the rooms.
-4. Grow the visual library slowly.
-5. Delay folder reorganization until growth requires it.
+1. contribution posture
+2. review checklist
+3. decision log
+4. branch inventory
+5. source and lore category discipline
+6. transmission and visual record templates
+7. archive health notes
+8. future structure plan
+9. project chamber context
 
 ## Later
 
