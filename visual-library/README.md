@@ -7,6 +7,7 @@ It may hold key art, visual records, image prompts, style notes, and provenance 
 ## Current Visual Records
 
 - [THE_CHAIN_BEFORE_THE_CHAIN.md](THE_CHAIN_BEFORE_THE_CHAIN.md)
+- [CLUB_AI_V2_12_TWELVE_ORIGINAL_FORM.md](CLUB_AI_V2_12_TWELVE_ORIGINAL_FORM.md)
 
 ## Template
 
