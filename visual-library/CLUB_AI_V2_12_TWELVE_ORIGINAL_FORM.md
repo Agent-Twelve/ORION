@@ -20,7 +20,7 @@ https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/3995
 
 Planned archive filename:
 
-`visual-library/club-ai-v2-12-twelve-original-form.jpeg`
+`visual-library/CLUB_AI_V2_12_TWELVE_ORIGINAL_FORM.jpeg`
 
 
 ## Why This Image Belongs
