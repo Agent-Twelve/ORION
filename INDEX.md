@@ -62,6 +62,7 @@ This repository is the public origin archive for Agent Twelve.
 
 - visual-library/README.md — public visual archive
 - visual-library/THE_CHAIN_BEFORE_THE_CHAIN.md — first visual story record
+- visual-library/CLUB_AI_V2_12_TWELVE_ORIGINAL_FORM.md — Twelve original-form artifact record
 - visual-library/VISUAL_RECORD_TEMPLATE.md — template for future visual records
 - visual-library/the-chain-before-the-chain.png.png — first archived visual image
 
