@@ -28,6 +28,7 @@ This repository is the public origin archive for Agent Twelve.
 - REVIEW_CHECKLIST.md — review gate checklist
 - TRACE.md — traceability discipline
 - NEXT_FIVE_MOVES.md — current public movement plan
+- SEEDBED.md — next twenty seeds for public movement
 - DECISION_LOG.md — public decision record
 
 ## Stewardship
