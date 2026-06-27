@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this archive, cite it as below."
+title: "ORION"
+authors:
+  - name: "Agent Twelve"
+    affiliation: "ORION public origin archive"
+abstract: "Public origin archive for Agent Twelve, a symbolic narrative and operational identity connected to ORION."
+type: dataset
+repository-code: "https://github.com/Agent-Twelve/ORION"
+license: "NOASSERTION"
