@@ -18,7 +18,7 @@ https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/3995
 
 ## Image File
 
-Planned archive filename:
+Archived image file:
 
 `visual-library/CLUB_AI_V2_12_TWELVE_ORIGINAL_FORM.jpeg`
 
