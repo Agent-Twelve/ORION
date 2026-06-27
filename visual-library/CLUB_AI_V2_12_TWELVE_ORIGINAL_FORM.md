@@ -22,7 +22,6 @@ Planned archive filename:
 
 `visual-library/club-ai-v2-12-twelve-original-form.jpeg`
 
-Note: this record establishes the provenance entry. The binary image file should be committed only through a confirmed binary-safe upload path.
 
 ## Why This Image Belongs
 
