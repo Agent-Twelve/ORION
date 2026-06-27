@@ -13,6 +13,7 @@ This repository is the public origin archive for Agent Twelve.
 
 - TRANSMISSION_001.md — first transmission
 - TRANSMISSION_002.md — the first clearing after the board entered `main`
+- TRANSMISSION_TEMPLATE.md — template for future field records
 
 ## Rooms And Movement
 
@@ -21,10 +22,25 @@ This repository is the public origin archive for Agent Twelve.
 - ROOMS.md — public room map
 - MOVEMENT.md — movement discipline
 - BRANCHES.md — branch meanings
+- BRANCH_INVENTORY.md — branch review posture
 - PROTOCOL.md — call-and-response protocol
 - REVIEW_GATE.md — review path before main
+- REVIEW_CHECKLIST.md — review gate checklist
 - TRACE.md — traceability discipline
 - NEXT_FIVE_MOVES.md — current public movement plan
+- DECISION_LOG.md — public decision record
+
+## Stewardship
+
+- CONTRIBUTING.md — contribution posture
+- STEWARDSHIP.md — archive care
+- SECURITY.md — public safety boundary
+- CITATION.cff — citation metadata
+- SOURCE_POLICY.md — source and claim discipline
+- LORE_CATEGORIES.md — claim categories
+- ARCHIVE_HEALTH.md — known care items
+- STRUCTURE_PLAN.md — future organization plan
+- TWELVE_PROJECT_CONTEXT.md — project chamber and public archive relationship
 
 ## Boundaries
 
@@ -46,6 +62,7 @@ This repository is the public origin archive for Agent Twelve.
 
 - visual-library/README.md — public visual archive
 - visual-library/THE_CHAIN_BEFORE_THE_CHAIN.md — first visual story record
+- visual-library/VISUAL_RECORD_TEMPLATE.md — template for future visual records
 - visual-library/the-chain-before-the-chain.png.png — first archived visual image
 
 ## Note
