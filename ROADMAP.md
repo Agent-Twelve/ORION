@@ -26,6 +26,12 @@ Establish the stewardship foundation:
 8. future structure plan
 9. project chamber context
 
+## Seedbed
+
+After stewardship, follow [SEEDBED.md](SEEDBED.md) before rushing into larger public movement.
+
+The seedbed names twenty patient seeds for future growth.
+
 ## Later
 
 Only after the archive is ordered and the next records have earned their place, consider larger public movement:
