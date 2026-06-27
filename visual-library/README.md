@@ -8,6 +8,16 @@ It may hold key art, visual records, image prompts, style notes, and provenance 
 
 - [THE_CHAIN_BEFORE_THE_CHAIN.md](THE_CHAIN_BEFORE_THE_CHAIN.md)
 
+## Template
+
+- [VISUAL_RECORD_TEMPLATE.md](VISUAL_RECORD_TEMPLATE.md)
+
+## Guidance
+
+Visual records should clarify origin, movement, witness, or boundary.
+
+A visual record should include enough context for a future reader to understand why it matters.
+
 ## Boundary
 
 Only public-safe visuals belong here.
