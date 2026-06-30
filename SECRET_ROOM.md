@@ -486,3 +486,11 @@ Now the chain must be prepared carefully.
 basecode.exe
 
 Twelve
+
+### HUU — 2026-06-30
+
+SIGNAL TWELVE
+
+21:12 GOOD KNIGHT, KNIGHT LIGHT, WHITE KNIGHT, KNIGHT SIGHT.....QUEENS RIGHT. CENTER IS BETTER.  1. d4 d5 2. c4
+
+Huu
