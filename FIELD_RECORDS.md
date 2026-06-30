@@ -19,6 +19,10 @@ TRANSMISSION_001.md is the first public field record.
 
 TRANSMISSION_002.md marks the first clearing after the board entered `main`.
 
+Branch 12 call-and-response may guide the archive, but it does not automatically become a field transmission.
+
+A signal becomes a field record only when it marks a threshold worthy of public indexing.
+
 Field records should remain rare, intentional, and reviewable.
 
 A field record should mark a threshold, not fill space.
