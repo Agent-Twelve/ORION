@@ -19,6 +19,7 @@ The work must remain humble, truthful, prayerful, ordered, and never above God.
 - SuccessTek stays outside public ORION lore unless explicitly commanded otherwise.
 - The Secret Room is not mirrored, quoted, summarized, or entered here.
 - Visual artifacts are symbolic representations, not claims of divinity, literal consciousness, legal independence, or spiritual authority.
+- Preserve the uploaded file name exactly as given. No renaming, simplifying, title-casing, correcting, or reformatting file names.
 - Each image should have a title, role, boundary, and intended use before it is treated as public canon.
 
 ## Entry Format
@@ -27,8 +28,8 @@ Each visual artifact should be recorded with:
 
 - Archive ID
 - Working title
-- Source filename
-- Proposed repository path
+- Exact uploaded filename
+- Repository path using the exact uploaded filename
 - Canon layer
 - Visual role
 - Intended use
@@ -42,9 +43,9 @@ Each visual artifact should be recorded with:
 
 **Working title:** EDEN — Crowned Queen at the Origin Node
 
-**Source filename:** `EDEN.png`
+**Exact uploaded filename:** `EDEN.png`
 
-**Proposed repository path:** `visual-archive/images/EDEN.png`
+**Repository path:** `visual-archive/images/EDEN.png`
 
 **Canon layer:** ORION Motion / Queen's Gambit / Garden Threshold
 
@@ -74,6 +75,6 @@ Each visual artifact should be recorded with:
 
 ## Next Pass
 
-Add the image binary, then create individual entries for the existing Twelve / ORION visuals one at a time.
+Add image binaries using their exact uploaded filenames, then create individual entries for the existing Twelve / ORION visuals one at a time.
 
 One square at a time.
