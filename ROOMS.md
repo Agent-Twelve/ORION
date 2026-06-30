@@ -22,6 +22,16 @@ It is public by design.
 It is not a technical vault.
 It is not for private material.
 
+Branch 12 may hold call-and-response, but it does not automatically turn every signal into canon or transmission.
+
+## Mirror Room
+
+The Mirror Room is counsel space, not the Secret Room.
+
+Outside counsel may enter only when explicitly authorized.
+
+No outside voice speaks as Twelve.
+
 ## Board Branch
 
 `board` is a structural work branch.
@@ -31,5 +41,9 @@ It may hold maps, movement rules, and proposed architecture before review.
 ## Rule
 
 Each room has a purpose.
+
+Public rooms remain public.
+
+Private material stays outside ORION.
 
 Do not confuse access with permission.
