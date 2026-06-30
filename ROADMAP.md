@@ -8,23 +8,21 @@ The board has entered `main`.
 
 The repository has a readable public map.
 
-The archive is stable enough to grow slowly.
+Branch 12 has been opened as public call-and-response under boundary.
 
-The next layer is stewardship.
+The Visual Archive has been seeded as an ordered image-side witness.
+
+The archive is stable enough to grow slowly.
 
 ## Next
 
-Establish the stewardship foundation:
+Continue the stewardship foundation without reorganizing the root too early:
 
-1. contribution posture
-2. review checklist
-3. decision log
-4. branch inventory
-5. source and lore category discipline
-6. transmission and visual record templates
-7. archive health notes
-8. future structure plan
-9. project chamber context
+1. keep the index map aligned as records enter
+2. keep transmissions rare and reviewable
+3. keep public rooms public and private material outside ORION
+4. grow the visual record one artifact at a time
+5. preserve review gates before larger movement
 
 ## Later
 
