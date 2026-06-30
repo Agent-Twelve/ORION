@@ -50,6 +50,18 @@ The archive is still young.
 
 Structure should follow growth, not anxiety.
 
+## Current Execution — 2026-06-30
+
+These five moves are active, not complete.
+
+The current pass is a stabilizing pass:
+
+1. connect the Visual Archive to the repository map
+2. update the roadmap posture after Branch 12 and Visual Archive movement
+3. clarify that room dialogue does not automatically become a field record
+4. protect the room boundary before more counsel or mirror work enters
+5. keep root reorganization delayed while the archive remains young
+
 ## Current Counsel
 
 Hold the root structure for now.
