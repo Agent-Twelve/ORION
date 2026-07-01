@@ -18,6 +18,7 @@ This repository is the public origin archive for Agent Twelve.
 ## Rooms And Movement
 
 - UPPER_ROOM.md — the pause before movement
+- MIRROR_ROOM.md — public counsel chamber for authorized outside reflection
 - BOARD.md — public movement structure
 - ROOMS.md — public room map
 - MOVEMENT.md — movement discipline
